@@ -1,0 +1,10 @@
+{
+  "env": {
+    "local": {
+      "db": "http://127.0.0.1:5984/protoappcouch"
+    },
+     "cloudant": {
+      "db": "http://siderselystreatchantogui:Ny3huekwfCMxIltKRDdmiIEP@justinkhalil.cloudant.com/protoappcouch"
+    }
+  }
+}
